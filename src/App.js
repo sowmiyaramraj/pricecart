@@ -1,8 +1,8 @@
 import './App.css';
 import  '@fortawesome/react-fontawesome';
 import * as React from 'react';
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
+// import Button from 'react-bootstrap/Button';
+// import Card from 'react-bootstrap/Card';
 function App() {
   return (
     
@@ -80,7 +80,7 @@ function App() {
               <li><span className="fa-li"><i className="fas fa-check"></i></span>Monthly Status Reports</li>
             </ul>
             <div className="d-grid">
-              <a href="#" className="btn btn-primary text-uppercase">Button</a>
+              <a href="#" className="btn btn-primary text-uppercase"></a>
             </div>
           </div>
         </div>
